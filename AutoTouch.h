@@ -11,9 +11,6 @@
 //  Main thread only. If your caller is on a background thread, dispatch_async
 //  to the main queue first.
 //
-//  Not affiliated with the Cydia "AutoTouch" tweak. Same word, different
-//  project — sorry about the collision.
-//
 
 #pragma once
 #import <UIKit/UIKit.h>
