@@ -2,7 +2,7 @@
 
 Synthesise iOS touches. Two files, no dependencies past UIKit + IOKit.
 
-Posts touch events indistinguishable from real ones — UIKit gesture recognisers, `UIControl` target/action, and engine input plugins (Unity, Unreal) all accept them.
+Posts touch events indistinguishable from real ones — UIKit gesture recognisers, `UIControl` target/action.
 
 ## Install
 
